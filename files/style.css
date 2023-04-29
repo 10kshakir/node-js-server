@@ -1,0 +1,24 @@
+#header{
+      text-align: center;
+      font-size: 5rem;
+      color: red;
+}
+
+.box{
+      height: 200px;
+      width: 50%;
+      margin-left: 25%;
+      background-color: powderblue;
+
+}
+.btn{
+      width: 50%;
+      margin-left: 25%;
+}
+.box-red{
+      height: 200px;
+      width: 50%;
+      margin-left: 25%;
+      background-color: red;
+
+}
